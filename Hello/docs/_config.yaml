@@ -1,0 +1,6 @@
+title: My Page
+description: Simple Hello World site
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
